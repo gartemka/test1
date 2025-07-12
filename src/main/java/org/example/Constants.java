@@ -26,7 +26,7 @@ public final class Constants {
     // Тип браузера для запуска тестов
     // Измените на "chrome", если хотите запускать в Chrome
     public static final String BROWSER_TYPE = "firefox"; // <-- Выберите "firefox" или "chrome"
-
+    public static final String NEW_FEATURE_TOGGLE = "enabled";
     // Таймауты ожидания (в секундах)
     public static final int DEFAULT_WAIT_TIMEOUT_SECONDS = 15;
 
